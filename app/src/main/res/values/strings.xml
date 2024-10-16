@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Gym Exercise</string>
+    <string name="exercise_name">Nama Gerakan</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About me</string>
+    <string name="content_text">isi konten</string>
+    <string name="email">m.raflioctavian6@gmail.com</string>
+    <string name="author">Muhammad Rafli Octavian</string>
+
+    <string-array name="data_name">
+        <item>Barbel Curl</item>
+        <item>Biceps Hammercurls</item>
+        <item>Cable Biceps Curl</item>
+        <item>Dumbell Row</item>
+        <item>Dumbell Triceps Kickback</item>
+        <item>Triceps Overhead</item>
+        <item>Front Squad</item>
+        <item>Hack Squad</item>
+        <item>Seated leg Curl</item>
+        <item>Back Squad</item>
+        <item>Pull Up</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>As with other curls, this isolation exercise targets the biceps. The use of a barbell adds more stability to this movement, and somewhat restricts your range of motion. This added stability means you can focus more on exertion than stabilizing the movement. This is a great variation for helping you build strength in your biceps.
+                1. Stand in an upright posture grabbing ahold of a barbell shoulder-width apart with your palms facing away from your body just below waist height.
+                2. Brace your core by breathing into your stomach and flexing your abdominal muscles as you begin to flex your elbows to raise the bar.
+                3. Keep your elbows at your sides as you flex the barbell to shoulder height avoiding movement through your spine.
+                4. Exhale and lower the barbell back to the starting position.</item>
+        <item>Similar to other curls, this isolation exercise targets the biceps. Unlike the standard Dumbbell Bicep Curl, this variation rotates your wrist into a more natural position. This rotation also help to emphasize the long head of the bicep. This is a great exercise for adding some variety to your curls as well as developing functional strength and building muscle mass.
+                1. Stand in an upright posture with your feet at shoulder-width apart.
+                2. Position a pair of dumbbells next to your hips with your palms facing in.
+                3. Brace your core by breathing into your stomach and flexing your abdominal muscles.
+                4. Keep your elbow at your side as you flex one dumbbell up to shoulder height keeping your palm facing in.
+                5. Once the dumbbell has reached shoulder height, lower back to the starting position.
+                6. Alternate the movement between each arm.</item>
+        <item>Similar to other curls, this isolation exercise targets the biceps. The use of cables allows you to apply tension to your biceps at a different angle than with free weights. This is especially helpful for applying tension at the top of your range of motion. Because you can maintain more tension on your biceps throughout the movement, this is especially helpful for building muscle mass in your biceps.
+                1. Place the cable anchor at the lowest setting.
+                2. Stand upright with your feet hip width apart while grabbing the handle so that your palms are facing up.
+                3. Bend your elbows to raise the handle up towards your shoulders keeping your elbows close your torso.
+                4. Controllably return to the starting position.</item>
+        <item>This compound movement primarily targets the back, but also hits the shoulders and biceps, as well as requiring some core activation for stability. By bracing yourself on the flat bench, you can position your torso parallel to the ground, without needing specific equipment. This is a great exercise with or without limited equipment, and a staple in many back workouts.
+                1. Place a dumbbell on each side of a flat bench.
+                2. Place your right knee on top of the bench and right hand on the other side of the bench. Your torso should be parallel to the floor.
+                3. Grasp a dumbbell with your left hand while keeping your back straight. The palm of your hand should face your torso.
+                4. Pull the dumbbell straight up to the side of your torso. Engage the muscles in your back and breathe out as you perform this step. The torso should remain stationary as your arm moves.
+                5. After a brief pause at the top of the movement, reverse this movement by lowering the dumbbell back to the starting position.</item>
+        <item>Dumbbell Kickbacks are an isolation exercise that target the triceps. The use of dumbbells prevents you from compensating for any strength discrepancies between sides. The movement itself is simple and easy to perform, making this a great exercise for beginners, and plenty of variations exist for more advanced users looking to add more difficulty and complexity to the movement.
+                1. Grasp a dumbbell in both hands, and stand with your feet roughly hip width apart, and a slight bend in your knees.
+                2. Engage your core, and hinge your hips back such that your torso is angled forward roughly 45 degrees, and your back is straight.
+                3. Position your arms slightly behind you and bend your elbow. The dumbbells should be directly below your elbows.
+                4. Engage your triceps to extend your arm behind you.
+                5. Hold this position for a moment at the end of the movement.
+                6. Maintain tension in your triceps as you slowly return to the starting position.</item>
+        <item>The overhead tricep extension can be performed seated or standing. The standing version engages the core more, however care must be taken to protect the lower back from overextension. Do this by bracing your core and pulling your belly button towards your pelvis. This will also help to keep the movement coming from the triceps and not the torso.
+                1. Set up a cable machine so the pulley is at head height and attach a rope grip.
+                2. Cup each end of the rope with both hands, turn away from the cable machine and adopt a shoulder width stance, then stagger your feet. Allow your arms to extend above and in front of your head.
+                3. Engage your core by bracing your stomach and pulling your belly button towards your pelvis.
+                4. Commence the reps by bending at the elbow and lowering the rope behind your head and towards the cable machine. Keep your upper arms in place, only allowing your forearms to move.
+                5. Squeeze your triceps as you extend your arms and return the rope grip to the starting position.</item>
+        <item>Front Squat is one of the most common variations of the more standard Back Squat. Like other squat variations, this is a compound exercise that primarily targets your quadriceps. By racking the bar in front of your body instead of behind, you can further emphasize your quads. While the movements are fairly similar, Front Squat may translate better to applications in sports and other real world activities.
+                1. Rack the barbell to shoulder height. Bring your chest to the bar to rest the bar on the uppermost part of your shoulders and secure the bar in a front rack hold. If you are unable to comfortably hold this position, cross your arms instead to hold the barbell in place and keep your elbows high.
+                2. Lift the barbell and step back placing your feet just outside shoulder-width apart and slightly angled outward.
+                3. Keep your weight evenly distributed through your feet.
+                4. Begin to descend by reaching your hips slightly back.
+                5. Your knees should track outward over your second toe and slightly forward as you descend while keeping your core braced to maintain an upright torso.
+                6. You should continue to descend to a deep enough depth that allows you spine to remain neutral before extending back to the starting position.</item>
+        <item>Hack Squat is a variation of squats that utilizes a specific machine to add resistance. Like other squat variations, this exercise primarily targets your quads. The use of a machine can assist you by redistricting your range of motion more than with the use of free weights, as well as adds more stability to the movement.
+                1. Stand in the Hack Squat machine with your shoulders underneath the shoulder pads and place your feet at shoulder width apart.
+                2. With your knees slightly bent, descend into a squat by positioning your hips slightly back.
+                3. Your knees should track outward over your second toe and slightly forward as you descend while keeping your core braced to avoid any rounding in the spine.
+                4. When your knees are at 90 degrees, push back up through the movement keep your back straight.
+                5. Repeat for allotted repetitions.</item>
+        <item>Seated Leg Curl is a weighted, isolation exercise that targets the hamstrings. Because a vast majority of lower body exercises tend to be compound movements, this exercise is a great way to isolate the hamstrings for building muscle mass, and developing strength. The use of a machine restricts your range of motion, and adds stability, allowing you to focus on exertion more than stabilizing the movement.
+                1. Sit upright in a leg curl machine while positioning the top support pad just above your knees and placing it just above the back of your ankles onto the lower pad.
+                2. Grab ahold of the handles for additional support.
+                3. Flex your knees to lower your heels towards towards the floor in a downward arc.
+                4. Once you can no longer flex your knees, return to the starting position.</item>
+        <item>Back Squat is one of the three Powerlifting movements, and one of the most common lower body exercises. It’s a great compound exercise that can help build strength and muscle mass in your leg, especially your quadriceps. It’s a staple in most fitness programs, and is often used as a metric for tracking lower body strength in general.
+                1. Set the barbell just below shoulder height and grab ahold the barbell outside shoulder-width.
+                2. Squeeze your shoulder blades together and brace your core by breathing into your stomach and flexing your abdominal muscles.
+                3. Quarter squat underneath the barbell to place it on the base of your neck before lifting and stepping back and planting your feet shoulder-width apart.
+                4. Keeping your heels planted firmly on the ground, descend by hinging at your hips while keeping your chest up.
+                5. Your knees should track outward and slightly forward as you descend and keep your spine neutral throughout the exercise.
+                6. Once your thighs have reached parallel with the floor, return back to the starting position.</item>
+        <item>Pull Ups are compound, bodyweight exercise that primarily target the back, but also hits the shoulders and biceps. While this exercise does have a decently high barrier to entry, it can be easily adapted to match your current conditioning with weighted or assisted variations. This is an excellent exercise for building functional strength and body control.
+                1. Place your hands on the pull up bar with your palms facing away from your body.
+                2. Brace your torso by breathing into your stomach and keeping your abdominal muscles flexed.
+                3. Pull your chest up to the bar by flexing your elbows down into the backside of your ribcage.
+                4. Once you have reached your chest to the bar, you will lower yourself back to the starting position.</item>
+    </string-array>
+    
+    <integer-array name="data_photo">
+        <item>@drawable/barbell_curl</item>
+        <item>@drawable/bizeps_hammercurls</item>
+        <item>@drawable/cable_bicep_curl</item>
+        <item>@drawable/dumbbell_row</item>
+        <item>@drawable/dumbbell_tricep_kickback</item>
+        <item>@drawable/tricep_overhead</item>
+        <item>@drawable/front_squat</item>
+        <item>@drawable/hack_squat</item>
+        <item>@drawable/seated_leg_curl</item>
+        <item>@drawable/back_squat</item>
+        <item>@drawable/pull_ups</item>
+    </integer-array>
+</resources>
